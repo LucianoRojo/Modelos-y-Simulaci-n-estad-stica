@@ -1,1 +1,1 @@
-Repositorio de la cátedra Modelos y Simulación Estadística. Contiene algunos de mis trabajos prácticos realizados en Python sobre Jupyter Notebook.
+My personal solutions to various assignments from the subject Models and Statistical Simulations. Coded in Python using Jupyter Notebook.
